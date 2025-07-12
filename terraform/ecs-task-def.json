@@ -1,0 +1,14 @@
+[
+  {
+    "name": "medusa-backend",
+    "image": "praneetz/medusa-backend:latest",
+    "essential": true,
+    "portMappings": [
+      {
+        "containerPort": 9000,
+        "hostPort": 9000,
+        "protocol": "tcp"
+      }
+    ]
+  }
+]
