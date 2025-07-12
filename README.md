@@ -100,6 +100,7 @@ GitHub Actions Docs
 
 ## 🙌 Author
 Praneet Biswal
+
 LinkedIn | GitHub
 
 ## 📜 License
